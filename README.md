@@ -30,3 +30,5 @@ kubectl delete -f dist/hello.k8s.yaml
 # References
 
 - [Tutorial: Deploy an Azure Kubernetes Service (AKS) cluster / Connect to cluster using kubectl](https://learn.microsoft.com/en-us/azure/aks/tutorial-kubernetes-deploy-cluster?tabs=azure-cli#connect-to-cluster-using-kubectl)
+- [cdk8s / Getting started](https://cdk8s.io/docs/latest/getting-started/)
+- [cdk8s+](https://cdk8s.io/docs/latest/plus/)
