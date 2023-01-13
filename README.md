@@ -13,6 +13,9 @@ kubectl get nodes
 # cdk8s
 
 ```shell
+# Install dependencies
+npm install
+
 # To synthesize the app, run:
 npm run compile && cdk8s synth
 
